@@ -28,6 +28,7 @@ export default function CustomTable(props) {
                     key={key}
                   >
                     {prop}
+
                   </TableCell>
                 );
               })}

@@ -56,14 +56,14 @@ export default function TableList() {
           <CardBody>
             <Table
               tableHeaderColor="primary"
-              tableHead={["Name", "Country", "City", "Salary"]}
+              tableHead={["Name", "Country", "City", "Salary", "Graph"]}
               tableData={[
-                ["Dakota Rice", "Niger", "Oud-Turnhout", "$36,738"],
-                ["Minerva Hooper", "Curaçao", "Sinaai-Waas", "$23,789"],
-                ["Sage Rodriguez", "Netherlands", "Baileux", "$56,142"],
-                ["Philip Chaney", "Korea, South", "Overland Park", "$38,735"],
-                ["Doris Greene", "Malawi", "Feldkirchen in Kärnten", "$63,542"],
-                ["Mason Porter", "Chile", "Gloucester", "$78,615"]
+                ["Dakota Rice", "Niger", "Oud-Turnhout", "$36,738", <a href="google.com"> link </a>],
+                ["Minerva Hooper", "Curaçao", "Sinaai-Waas", "$23,789", <a href="google.com"> link </a>],
+                ["Sage Rodriguez", "Netherlands", "Baileux", "$56,142", <a href="google.com"> link </a>],
+                ["Philip Chaney", "Korea, South", "Overland Park", "$38,735", <a href="google.com"> link </a>],
+                ["Doris Greene", "Malawi", "Feldkirchen in Kärnten", "$63,542", <a href="google.com"> link </a>],
+                ["Mason Porter", "Chile", "Gloucester", "$78,615", <a href="google.com"> link </a>]
               ]}
             />
           </CardBody>
