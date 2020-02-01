@@ -159,10 +159,10 @@ export default function UserProfile() {
               </a>
             </CardAvatar>
             <CardBody profile>
-              <h6 className={classes.cardCategory}>CEO / CO-FOUNDER</h6>
+              <h6 className={classes.cardCategory}>Owner</h6>
               <h4 className={classes.cardTitle}>David Brandt</h4>
               <p className={classes.description}>
-                Test description
+                It aint much but its honest work
               </p>
               <Button color="primary" round>
                 Follow
