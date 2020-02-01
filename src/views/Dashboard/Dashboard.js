@@ -17,11 +17,6 @@ import ErrorIcon from '@material-ui/icons/Error';
 import WarningIcon from '@material-ui/icons/Warning';
 import AssignmentTurnedInIcon from '@material-ui/icons/AssignmentTurnedIn';
 
-
-
-
-import Code from "@material-ui/icons/Code";
-import Cloud from "@material-ui/icons/Cloud";
 // core components
 import GridItem from "components/Grid/GridItem.js";
 import GridContainer from "components/Grid/GridContainer.js";
