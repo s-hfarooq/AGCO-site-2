@@ -52,7 +52,7 @@ export default function Dashboard() {
   return (
     <div>
       <GridContainer>
-        <GridItem xs={12} sm={6} md={3}>
+        <GridItem xs={12} sm={6} md={4}>
           <Card>
             <CardHeader color="success" stats icon>
               <CardIcon color="success">
@@ -69,7 +69,7 @@ export default function Dashboard() {
             </CardFooter>
           </Card>
         </GridItem>
-        <GridItem xs={12} sm={6} md={3}>
+        <GridItem xs={12} sm={6} md={4}>
           <Card>
             <CardHeader color="danger" stats icon>
               <CardIcon color="danger">
@@ -86,7 +86,7 @@ export default function Dashboard() {
             </CardFooter>
           </Card>
         </GridItem>
-        <GridItem xs={12} sm={6} md={3}>
+        <GridItem xs={12} sm={6} md={4}>
         <Card>
             <CardHeader color="danger" stats icon>
               <CardIcon color="danger">
@@ -105,7 +105,7 @@ export default function Dashboard() {
         </GridItem>
       </GridContainer>
       <GridContainer>
-        <GridItem xs={12} sm={12} md={4}>
+        <GridItem xs={12} sm={12} md={6}>
           <Card chart>
             <CardHeader color="success">
               <ChartistGraph
@@ -127,7 +127,7 @@ export default function Dashboard() {
             </CardFooter>
           </Card>
         </GridItem>
-        <GridItem xs={12} sm={12} md={4}>
+        <GridItem xs={12} sm={12} md={6}>
           <Card chart>
             <CardHeader color="warning">
               <ChartistGraph
@@ -149,7 +149,7 @@ export default function Dashboard() {
             </CardFooter>
           </Card>
         </GridItem>
-        <GridItem xs={12} sm={12} md={4}>
+        {/* <GridItem xs={12} sm={12} md={4}>
           <Card chart>
             <CardHeader color="danger">
               <ChartistGraph
@@ -170,10 +170,10 @@ export default function Dashboard() {
               </div>
             </CardFooter>
           </Card>
-        </GridItem>
+        </GridItem> */}
       </GridContainer>
       <GridContainer>
-        <GridItem xs={12} sm={12} md={6}>
+        <GridItem xs={12} sm={12} md={12}>
           <CustomTabs
             title="Tasks:"
             headerColor="primary"
