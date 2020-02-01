@@ -1,4 +1,5 @@
 # [AGCO Help](http://18.232.55.79:3000/)
+![](https://raw.githubusercontent.com/s-hfarooq/AGCO-site-2/master/screenshots/1.png)
 AGCO help is a website that displays data related to machine maintenance in poultry farms with the goal of reducing resource usage to create a more sustainable system. 
 
 ## Table of Contents
