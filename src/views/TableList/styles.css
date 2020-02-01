@@ -1,0 +1,15 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .dialog {
+    position: static;
+    left: 20%;
+    top: 10%;
+  }
+  
+  .image {
+    width: 100%;
+  }
+  
