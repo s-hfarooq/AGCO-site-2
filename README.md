@@ -5,14 +5,11 @@ AGCO help is a website that displays data related to machine maintenance in poul
 ## Table of Contents
 
 * [Demo](#demo)
-* [Documentation](#documentation)
 * [Resources](#resources)
 
 ## Demo
 
 The demo will be updated until 2/1/20 at 6 pm and can be found [here](http://18.232.55.79:3000/).
-
-## Documentation
 
 ## Resources
 * [Material Dashboard React](https://github.com/creativetimofficial/material-dashboard-react/)
