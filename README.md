@@ -1,5 +1,5 @@
 # AGCO Help
-AGCO help is a website that displays data related to machine maintenance in poultry farms with the goal of reducing resource usage to create a more sustainable farm.
+AGCO help is a website that displays data related to machine maintenance in poultry farms with the goal of reducing resource usage to create a more sustainable system. 
 
 ## Table of Contents
 
