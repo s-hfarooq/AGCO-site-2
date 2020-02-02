@@ -11,6 +11,10 @@ AGCO help is a website that displays data related to machine maintenance in poul
 
 The demo will be updated until 2/1/20 at 6 pm and can be found [here](http://18.232.55.79:3000/).
 
+# To run on your local machine
+`npm install` in the root folder
+`npm start`
+
 ## Resources
 * [Material Dashboard React](https://github.com/creativetimofficial/material-dashboard-react/)
 
