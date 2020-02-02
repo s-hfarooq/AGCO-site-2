@@ -13,6 +13,7 @@ The demo will be updated until 2/1/20 at 6 pm and can be found [here](http://18.
 
 # To run on your local machine
 `npm install` in the root folder
+
 `npm start`
 
 ## Resources
